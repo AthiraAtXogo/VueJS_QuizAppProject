@@ -1,29 +1,20 @@
-# QuizApp
+# Quiz App
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple quiz application built with Vue.js and Tailwind CSS.
 
-## Recommended IDE Setup
+## Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Interactive quiz functionality
+- Modern design with Tailwind CSS
 
-## Customize configuration
+## Getting Started
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+1. Clone the repository: https://github.com/AthiraAtXogo/VueJS_QuizAppProject.git
+2. Navigate to the project directory: cd quiz-app
+3. Install dependencies: npm install
+4. Start the development server: npm run dev
 
-## Project Setup
 
-```sh
-npm install
-```
 
-### Compile and Hot-Reload for Development
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+  
